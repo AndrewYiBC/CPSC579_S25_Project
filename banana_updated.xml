@@ -11,7 +11,7 @@
 	<integrator type="path" id="elm__0" name="elm__0">
 		<integer name="max_depth" value="12"/>
 	</integrator>
-	<!-- <sensor type="perspective" id="elm__1" name="elm__1">
+	<sensor type="perspective" id="elm__1" name="elm__1">
 		<string name="fov_axis" value="x"/>
 		<float name="fov" value="64.022150"/>
 		<float name="principal_point_offset_x" value="0.000000"/>
@@ -31,7 +31,7 @@
 			<integer name="width" value="$resx"/>
 			<integer name="height" value="$resy"/>
 		</film>
-	</sensor> -->
+	</sensor>
 	<sensor type="perspective" id="elm__2" name="elm__2">
 		<string name="fov_axis" value="x"/>
 		<float name="fov" value="64.022150"/>
@@ -53,7 +53,7 @@
 			<integer name="height" value="$resy"/>
 		</film>
 	</sensor>
-	<!-- <sensor type="perspective" id="elm__3" name="elm__3">
+	<sensor type="perspective" id="elm__3" name="elm__3">
 		<string name="fov_axis" value="x"/>
 		<float name="fov" value="64.022150"/>
 		<float name="principal_point_offset_x" value="0.000000"/>
@@ -73,7 +73,7 @@
 			<integer name="width" value="$resx"/>
 			<integer name="height" value="$resy"/>
 		</film>
-	</sensor> -->
+	</sensor>
 	<sensor type="perspective" id="elm__4" name="elm__4">
 		<string name="fov_axis" value="x"/>
 		<float name="fov" value="64.022150"/>
@@ -95,7 +95,7 @@
 			<integer name="height" value="$resy"/>
 		</film>
 	</sensor>
-	<!-- <sensor type="perspective" id="elm__5" name="elm__5">
+	<sensor type="perspective" id="elm__5" name="elm__5">
 		<string name="fov_axis" value="x"/>
 		<float name="fov" value="64.022150"/>
 		<float name="principal_point_offset_x" value="0.000000"/>
@@ -115,7 +115,7 @@
 			<integer name="width" value="$resx"/>
 			<integer name="height" value="$resy"/>
 		</film>
-	</sensor> -->
+	</sensor>
 	<sensor type="perspective" id="elm__6" name="elm__6">
 		<string name="fov_axis" value="x"/>
 		<float name="fov" value="64.022150"/>
@@ -137,7 +137,7 @@
 			<integer name="height" value="$resy"/>
 		</film>
 	</sensor>
-	<!-- <sensor type="perspective" id="elm__7" name="elm__7">
+	<sensor type="perspective" id="elm__7" name="elm__7">
 		<string name="fov_axis" value="x"/>
 		<float name="fov" value="64.022150"/>
 		<float name="principal_point_offset_x" value="0.000000"/>
@@ -157,7 +157,7 @@
 			<integer name="width" value="$resx"/>
 			<integer name="height" value="$resy"/>
 		</film>
-	</sensor> -->
+	</sensor>
 	<sensor type="perspective" id="elm__8" name="elm__8">
 		<string name="fov_axis" value="x"/>
 		<float name="fov" value="64.022150"/>
@@ -179,7 +179,7 @@
 			<integer name="height" value="$resy"/>
 		</film>
 	</sensor>
-	<!-- <sensor type="perspective" id="elm__9" name="elm__9">
+	<sensor type="perspective" id="elm__9" name="elm__9">
 		<string name="fov_axis" value="x"/>
 		<float name="fov" value="64.022150"/>
 		<float name="principal_point_offset_x" value="0.000000"/>
@@ -199,8 +199,8 @@
 			<integer name="width" value="$resx"/>
 			<integer name="height" value="$resy"/>
 		</film>
-	</sensor> -->
-	<!-- <sensor type="perspective" id="elm__10" name="elm__10">
+	</sensor>
+	<sensor type="perspective" id="elm__10" name="elm__10">
 		<string name="fov_axis" value="x"/>
 		<float name="fov" value="64.022150"/>
 		<float name="principal_point_offset_x" value="0.000000"/>
@@ -220,7 +220,7 @@
 			<integer name="width" value="$resx"/>
 			<integer name="height" value="$resy"/>
 		</film>
-	</sensor> -->
+	</sensor>
 	<sensor type="perspective" id="elm__11" name="elm__11">
 		<string name="fov_axis" value="x"/>
 		<float name="fov" value="64.022150"/>
@@ -242,7 +242,7 @@
 			<integer name="height" value="$resy"/>
 		</film>
 	</sensor>
-	<!-- <sensor type="perspective" id="elm__12" name="elm__12">
+	<sensor type="perspective" id="elm__12" name="elm__12">
 		<string name="fov_axis" value="x"/>
 		<float name="fov" value="64.022150"/>
 		<float name="principal_point_offset_x" value="0.000000"/>
@@ -262,7 +262,7 @@
 			<integer name="width" value="$resx"/>
 			<integer name="height" value="$resy"/>
 		</film>
-	</sensor> -->
+	</sensor>
 	<sensor type="perspective" id="elm__13" name="elm__13">
 		<string name="fov_axis" value="x"/>
 		<float name="fov" value="64.022150"/>
@@ -284,7 +284,7 @@
 			<integer name="height" value="$resy"/>
 		</film>
 	</sensor>
-	<!-- <sensor type="perspective" id="elm__14" name="elm__14">
+	<sensor type="perspective" id="elm__14" name="elm__14">
 		<string name="fov_axis" value="x"/>
 		<float name="fov" value="64.022150"/>
 		<float name="principal_point_offset_x" value="0.000000"/>
@@ -304,7 +304,7 @@
 			<integer name="width" value="$resx"/>
 			<integer name="height" value="$resy"/>
 		</film>
-	</sensor> -->
+	</sensor>
 
 <!-- Materials -->
 
